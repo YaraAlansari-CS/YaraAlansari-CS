@@ -13,4 +13,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+-->قدمة تعريفية عن نفسك
+
+المهارات والتقنيات
+
+روابط المشاريع المميزة
+
+روابط التواصل (LinkedIn، البريد الإلكتروني)
