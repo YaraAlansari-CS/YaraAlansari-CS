@@ -25,7 +25,7 @@ I'm a Computer Science graduate from **Umm Al-Qura University** with a strong pa
 | :--- | :--- |
 | **Languages** | Python, Dart, PHP, JavaScript, HTML, CSS, SQL |
 | **Frameworks & Tools** | Flutter, Flask, React Native, TensorFlow, PyTorch, OpenAI APIs |
-| **AI & ML** | Deep Learning, Computer Vision, NLP, YOLOv10, VGG19, Sentence-BERT, GPT-3.5 |
+| **AI & ML** | Deep Learning, Computer Vision, NLP, YOLOv10, VGG19, Sentence-BERT, GPTs |
 | **Database** | MySQL, PostgreSQL, Supabase, phpMyAdmin |
 | **Web Development** | Full-Stack (Frontend + Backend + APIs), RESTful APIs, AJAX |
 | **Version Control** | Git, GitHub |
