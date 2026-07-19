@@ -35,12 +35,12 @@ I'm a Computer Science graduate from **Umm Al-Qura University** with a strong pa
 
 ## 📂 Featured Projects
 
-### 🧠 [ElpisHR – AI-Powered Recruitment Platform](https://github.com/YaraAlansari-CS/ElpisHR)
+### 🧠 [ElpisHR – AI-Powered Recruitment Platform](https://github.com/YaraAlansari-CS/ElpisHR-AI-Recruitment-App)
 AI-driven HR platform automating CV sorting (Sentence-BERT) and initial interviews (OpenAI GPT-3.5). Built with Flutter, Python Flask, and Supabase PostgreSQL.  
 
 📱 Mobile App | HR Tech | AI Automation | Flutter
 
-### 🚗 [Vehicle Accident Detection in Adverse Weather (Research)](https://github.com/YaraAlansari-CS/Vehicle-Accident-Detection-YOLO-VGG)
+### 🚗 [Vehicle Accident Detection in Adverse Weather (Research)](https://github.com/YaraAlansari-CS/Vehicle-Accident-Detection-AI-Computer-Vision)
 Research paper on detecting vehicle accidents in rain, fog, and snow using hybrid deep learning (YOLOv10 + VGG19). Achieved **81.8% precision** at epoch 200.  
 📄 Computer Vision | Deep Learning | Road Safety | Research
 
