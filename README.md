@@ -73,7 +73,3 @@ I'm currently seeking opportunities as a **Software Developer, AI Engineer, or F
 ---
 
 **⭐ Thanks for visiting! Feel free to explore my repositories and reach out.**
-
-![GitHub Stats](https://github-readme-stats-psi-gold.vercel.app/api?username=YaraAlansari-CS&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats-psi-gold.vercel.app/api/top-langs/?username=YaraAlansari-CS&layout=compact&theme=radical)
