@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Yara Alansari
 
-> **Computer Science Graduate | AI Engineer | Software Developer**
+> **Computer Science | AI Engineer | Software Developer**
 
 📍 Makkah, Saudi Arabia  
 📫 yara.alansari01@gmail.com  
@@ -12,7 +12,7 @@
 
 I'm a Computer Science graduate from **Umm Al-Qura University** with a strong passion for **Artificial Intelligence, Software Development, and building real-world applications**. I love creating intelligent systems that solve meaningful problems — from automating recruitment processes to enhancing road safety using deep learning.
 
-- 🎓 **B.Sc. in Computer Science** – Umm Al-Qura University
+- 🎓 **B.Sc. in Computer Science (First Honor)** – Umm Al-Qura University
 - 🏆 **2nd Best Graduation Project Award** – ElpisHR (AI-Powered Recruitment Platform)
 - 🤖 Passionate about **AI, Machine Learning, Computer Vision & Full-Stack Development**
 - 💡 Always learning and building
