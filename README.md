@@ -55,7 +55,7 @@ Full-stack e-commerce website for vegetarian food products. Features multi-role 
 - 🥈 **2nd Best Graduation Project** – Umm Al-Qura University
 - 📄 **Published Research** – Vehicle Accident Detection using YOLOv10 & VGG19
 - 💻 **Full-Stack Development** – Built complete e-commerce platform with multi-user roles
-- 📱 **Mobile App Development** – AI-powered Flutter application with backend integration
+- 📱 **Mobile App Development** – Built an AI-powered Flutter application with backend integration
 
 ---
 
