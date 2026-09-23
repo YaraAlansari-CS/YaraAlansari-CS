@@ -4,7 +4,7 @@
 
 📍 Makkah, Saudi Arabia  
 📫 yara.alansari01@gmail.com  
-🔗 [LinkedIn](https://linkedin.com/in/[yara-alansari]) • [GitHub](https://github.com/YaraAlansari-CS)
+🔗 [LinkedIn](https://linkedin.com/in/yara-alansari) • [GitHub](https://github.com/YaraAlansari-CS)
 
 ---
 
