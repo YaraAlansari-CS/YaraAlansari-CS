@@ -42,10 +42,12 @@ AI-driven HR platform automating CV sorting (Sentence-BERT) and initial intervie
 
 ### 🚗 [Vehicle Accident Detection in Adverse Weather (Research)](https://github.com/YaraAlansari-CS/Vehicle-Accident-Detection-AI-Computer-Vision)
 Research paper on detecting vehicle accidents in rain, fog, and snow using hybrid deep learning (YOLOv10 + VGG19). Achieved **81.8% precision** at epoch 200.  
+
 📄 Computer Vision | Deep Learning | Road Safety | Research
 
 ### 🥗 [VeganCrate – E-Commerce Marketplace](https://github.com/YaraAlansari-CS/VeganCrate-Ecommerce-Website)
-Full-stack e-commerce website for vegetarian food products. Features multi-role system (Admin, Employee, Vendor, Customer), order management, and secure authentication.  
+Full-stack e-commerce website for vegetarian food products. Features multi-role system (Admin, Employee, Vendor, Customer), order management, and secure authentication. 
+
 🛍️ Full-Stack | PHP | MySQL | AJAX | Ecommerce Website
 
 ---
