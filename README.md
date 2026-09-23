@@ -63,7 +63,7 @@ Full-stack e-commerce website for vegetarian food products. Features multi-role 
 
 ## 📫 Let's Connect
 
-- **LinkedIn:** [linkedin.com/in/[your-username]](https://linkedin.com/in/[your-username])
+- **LinkedIn:** [linkedin.com/in/yara-alansari] (https://linkedin.com/in/yara-alansari)
 - **Email:** yara.alansari01@gmail.com
 - **GitHub:** [github.com/YaraAlansari-CS](https://github.com/YaraAlansari-CS)
 
@@ -71,7 +71,7 @@ Full-stack e-commerce website for vegetarian food products. Features multi-role 
 
 ## 🎯 What I'm Looking For
 
-I'm currently seeking opportunities as a **Software Developer, AI Engineer, or Full-Stack Developer**. I'm passionate about building innovative solutions that make a real impact. If you're hiring or know of any opportunities, let's connect!
+I'm currently seeking opportunities as a **Software Engineer, AI Engineer, or Full-Stack Developer**. I'm passionate about building innovative solutions that make a real impact. If you're hiring or know of any opportunities, let's connect!
 
 ---
 
