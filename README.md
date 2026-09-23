@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Yara Alansari
 
-> **Computer Science | Software Developer | AI Engineer**
+> **Computer Science | Software Engineer | AI Engineer**
 
 📍 Makkah, Saudi Arabia  
 📫 yara.alansari01@gmail.com  
